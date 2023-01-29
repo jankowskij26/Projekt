@@ -1,0 +1,52 @@
+
+body {
+
+    background: grey;
+}
+
+
+h2 {
+    font-size: 40px;
+
+    font-family: "Courier New";
+    text-align: center;
+}
+.tabela{
+    font-size: 30px;
+     font-family: "Courier New";
+    text-align: center;
+    margin-left: auto;
+  margin-right: auto;
+
+}
+center{
+    font-size: 30px;
+    font-family: "Courier New";
+
+}
+input{
+
+    border-radius:8px;
+    font-size: 30px;
+     font-family: "Courier New";
+}
+select{
+
+    border-radius:8px;
+    font-size: 30px;
+     font-family: "Courier New";
+}
+
+.submit{
+
+    font-weight: bold;
+}
+
+.submit20{
+
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: 2px solid #4CAF50; /* Green */
+
+}
